@@ -1,0 +1,12 @@
+1|Madurai Express|Madurai|Chennai|21:00|04:30|AC Sleeper|950|40
+2|Pandian Travels|Madurai|Chennai|22:30|05:45|Non-AC Seater|520|44
+3|Meenakshi Deluxe|Madurai|Coimbatore|06:00|11:30|AC Seater|480|40
+4|Kovai Line|Coimbatore|Madurai|14:00|19:30|Non-AC Seater|350|44
+5|Rock Fort Super|Madurai|Trichy|07:15|10:15|Non-AC Seater|190|48
+6|Cauvery Travels|Trichy|Chennai|23:00|04:30|AC Sleeper|780|36
+7|Marina Star|Chennai|Madurai|20:00|03:30|AC Sleeper|980|40
+8|Garden City Volvo|Chennai|Bangalore|22:00|04:00|AC Seater|850|40
+9|Silicon Link|Bangalore|Chennai|23:30|05:30|AC Seater|870|40
+10|Temple City|Madurai|Rameswaram|05:30|09:30|Non-AC Seater|210|48
+11|Southern Pearl|Madurai|Kanyakumari|08:00|13:30|AC Seater|400|40
+12|Hill Queen|Coimbatore|Ooty|09:00|12:00|Non-AC Seater|150|44

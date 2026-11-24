@@ -1,0 +1,2 @@
+admin|admin123|System Administrator|9000000000|ADMIN
+demo|demo123|Demo Passenger|9111111111|USER
